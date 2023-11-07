@@ -145,9 +145,6 @@ class Cuadrado extends ObjetoGeometrico {
     }
 }
 
-
-// Aquí puedes agregar las clases Elipse, Rectangulo, Linea y Cuadrado de manera similar a la clase Circulo
-
 class Grupo extends ObjetoRepresentable {
     private List<ObjetoRepresentable> objetos = new ArrayList<>();
 
